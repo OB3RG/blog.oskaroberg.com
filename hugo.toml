@@ -1,0 +1,4 @@
+baseURL = 'https://blog.oskaroberg.com/'
+languageCode = 'en-us'
+title = 'Oskar Öberg'
+theme = 'ananke'
